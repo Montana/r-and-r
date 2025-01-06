@@ -1,0 +1,11 @@
+dist: focal 
+language: python
+python:
+  - "3.13"
+
+install:
+  - echo "Installing dependencies"
+
+script:
+  - echo "Running tests"
+  - true  
