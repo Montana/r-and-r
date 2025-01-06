@@ -8,4 +8,5 @@ install:
 
 script:
   - echo "Running tests"
+  - echo "Still running..."
   - true  
