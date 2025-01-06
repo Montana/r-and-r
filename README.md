@@ -1,5 +1,7 @@
 # R&R From Casetext Improved 
 
+![Heading (3)](https://github.com/user-attachments/assets/ab33d374-4d48-4680-9a34-d7bd4c15a19d)
+
 This project provides tools for handling datasets, querying documents, and analyzing results using different models like OpenAI and Anthropic.
 
 ## Features
