@@ -1,0 +1,7 @@
+numpy==1.24.4
+openai==0.27.0
+anthropic==0.2.0
+tenacity==8.2.2
+tiktoken==0.4.0
+xopen==1.6.0
+python-dotenv==1.0.0
